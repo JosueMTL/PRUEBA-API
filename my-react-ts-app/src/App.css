@@ -1,0 +1,24 @@
+/* styles/HoroscopeComponent.css */
+.horoscope-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.horoscope-item {
+  list-style: none;
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.horoscope-image {
+  width: 120px; /* Ajusta el tamaño según tus necesidades */
+  height: 160px; /* Ajusta el tamaño según tus necesidades */
+  margin-top: 10px;
+}
+
+.cocktail-image{
+  width: 120px;
+  height: 160px;
+}
